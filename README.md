@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fardita
+- 👋 Hi, I’m @Francesco
 - 👀 I’m interested in portfolio optimization and python programming open source projects
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me @linkedin
