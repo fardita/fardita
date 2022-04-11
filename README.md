@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fardita
-- 👀 I’m interested in portfolio optimization and python programming open source prijects
+- 👀 I’m interested in portfolio optimization and python programming open source projects
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me @linkedin
 
