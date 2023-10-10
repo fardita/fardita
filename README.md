@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Francesco
-- 👀 I’m interested in portfolio optimization and python programming open source projects
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I’m looking to collaborate on open source projects and i love data engineering and fintech!
 - 📫 Reach me @linkedin
 
 <!---
