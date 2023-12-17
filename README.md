@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Francesco
-- 💞️ I’m looking to collaborate on open source projects and i love data engineering and fintech!
-- 📫 Reach me @linkedin
+- 👋 Hi, I’m @Francesco, welcome to my github page! here you will find coding done for fun!
+- 💞️ I’m looking to collaborate on open source projects
+- 📫 Reach me @linkedin to know me better!
 
 <!---
 fardita/fardita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
