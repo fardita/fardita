@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Francesco, welcome to my github page! here you will find coding done for fun!
-- 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me @linkedin to know me better!
 
 <!---
