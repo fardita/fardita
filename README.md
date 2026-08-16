@@ -21,7 +21,6 @@
 
 <br>
 
-🟢 **Open to work** - Data Engineer roles · USA (remote & hybrid) · worldwide remote
 
 </div>
 
