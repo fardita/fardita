@@ -21,7 +21,7 @@
 
 <br>
 
-🟢 **Open to work** — Data Engineer roles · USA (remote & hybrid) · worldwide remote
+🟢 **Open to work** - Data Engineer roles · USA (remote & hybrid) · worldwide remote
 
 </div>
 
@@ -29,12 +29,12 @@ I'm a Data Engineer and Data Analytics Expert with 6+ years across STMicroelectr
 
 ## What I do
 
-- **Data Engineering** — ETL/ELT pipelines, data modeling, data migrations, data validation
-- **Cloud & Infrastructure** — Azure (Data Factory, Fabric), Google Cloud (BigQuery), AWS, Databricks, Docker, Kubernetes, deployments
-- **BI & Analytics** — Power BI, DAX, Apache Superset, dashboarding, data visualization
-- **AI & Machine Learning** — RAG, prompt engineering, LangChain, LLMs, ML models, predictive analytics
-- **DevOps** — Git/GitHub, Azure DevOps, CI/CD, Linux
-- **Lead & Delivery** — high-level design, team leadership, project and risk management
+- **Data Engineering** - ETL/ELT pipelines, data modeling, data migrations, data validation
+- **Cloud & Infrastructure** - Azure (Data Factory, Fabric), Google Cloud (BigQuery), AWS, Databricks, Docker, Kubernetes, deployments
+- **BI & Analytics** - Power BI, DAX, Apache Superset, dashboarding, data visualization
+- **AI & Machine Learning** - RAG, prompt engineering, LangChain, LLMs, ML models, predictive analytics
+- **DevOps** - Git/GitHub, Azure DevOps, CI/CD, Linux
+- **Lead & Delivery** - high-level design, team leadership, project and risk management
 
 ## Featured projects
 
