@@ -2,24 +2,26 @@
 
 # **Francesco Ardita**
 
-### **Data Engineer & Data Analytics Expert**
+### **Data Engineer, Big Data, Cloud (GCP/Azure), BI & DWH**
 
-`PySpark` · `Python` · `SQL` · `Azure` · `BigQuery` · `AWS` · `Databricks` · `Fabric` · `Power BI`
+`Python` · `SQL` · `PySpark` · `BigQuery` · `GCP` · `Azure` · `Databricks` · `Airflow` · `Power BI`
 
 <br>
 
 <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"></a>
-<a href="https://spark.apache.org"><img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="PySpark"></a>
 <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL"></a>
-<a href="https://azure.microsoft.com"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure"></a>
+<a href="https://spark.apache.org"><img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" alt="PySpark"></a>
 <a href="https://cloud.google.com"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Google Cloud"></a>
-<a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS"></a>
+<a href="https://cloud.google.com/bigquery"><img src="https://img.shields.io/badge/BigQuery-669EE0?style=flat&logo=googlebigquery&logoColor=white" alt="BigQuery"></a>
+<a href="https://azure.microsoft.com"><img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure"></a>
 <a href="https://databricks.com"><img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" alt="Databricks"></a>
-<a href="https://docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"></a>
-<a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"></a>
+<a href="https://airflow.apache.org"><img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" alt="Airflow"></a>
 <a href="https://powerbi.microsoft.com"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI"></a>
 <a href="https://superset.apache.org"><img src="https://img.shields.io/badge/Superset-20A0C9?style=flat&logo=apachesuperset&logoColor=white" alt="Superset"></a>
-<a href="https://azure.microsoft.com/products/devops"><img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white" alt="Azure DevOps"></a>
+<a href="https://www.terraform.io"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform"></a>
+<a href="https://kafka.apache.org"><img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Kafka"></a>
+<a href="https://docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"></a>
 
 </div>
 
@@ -28,7 +30,7 @@
 <div align="center">
 
 [![Location](https://img.shields.io/badge/📍-Catania-555555?style=flat-square&labelColor=333333)](#)
-[![Company](https://img.shields.io/badge/🏢-Leonardo-0078D4?style=flat-square&labelColor=333333)](#)
+[![Company](https://img.shields.io/badge/🏢-Leonardo%20S.p.A.-0078D4?style=flat-square&labelColor=333333)](#)
 
 </div>
 
@@ -40,7 +42,7 @@
 
 <br>
 
-> 6+ years across **STMicroelectronics**, **IBM**, and **Leonardo**. I design and ship ETL/ELT pipelines, cloud data platforms, and BI solutions — owning high-level design end to end. A background in Corporate Finance keeps a business-first lens on every pipeline.
+> 5+ years across **Leonardo**, **STMicroelectronics**, **BIP**, **IBM**, and **Adora ICT**. I design and ship ETL/ELT pipelines, cloud data platforms, lakehouse architectures, and BI solutions — owning high-level design end to end. A background in Corporate Finance keeps a business-first lens on every pipeline.
 
 <br>
 
@@ -51,25 +53,25 @@
 <td width="50%" valign="top">
 
 #### Data Engineering
-ETL/ELT pipelines · data modeling · migrations · validation
+ETL/ELT pipelines · data modeling · lakehouse architecture · migrations · validation · SCD merge logic
 
-#### Cloud & Infrastructure
-Azure Data Factory · Fabric · BigQuery · AWS · Databricks · Docker · Kubernetes
+#### Cloud & Platforms
+BigQuery · GCP · Azure Data Factory · Databricks (PySpark) · Terraform · Apache Kafka
 
 #### BI & Analytics
-Power BI · DAX · Apache Superset · dashboarding · data visualization
+Power BI (advanced DAX) · Apache Superset · dashboarding · data visualization · commercial KPIs
 
 </td>
 <td width="50%" valign="top">
 
-#### AI & Machine Learning
-RAG · prompt engineering · LangChain · LLMs · predictive analytics
+#### Orchestration & DevOps
+Apache Airflow / Cloud Composer · Docker · Git · CI/CD
 
-#### DevOps
-Git/GitHub · Azure DevOps · CI/CD · Linux
+#### Data & Reporting
+SAS Visual Analytics · SQL Server · R · LaTeX · metadata schema validation
 
-#### Leadership
-High-level design · team leadership · project & risk management
+#### Data Strategy
+Big data pipelines · semiconductor telemetry · revenue assurance · generative BI concepts
 
 </td>
 </tr>
@@ -82,7 +84,9 @@ High-level design · team leadership · project & risk management
 <table>
 <tr>
 <td align="center">
-<a href="https://www.leonardo.com"><b>Leonardo</b></a>
+<a href="https://www.leonardo.com"><b>Leonardo S.p.A.</b></a>
+<br>
+<sub>Cyber Security Division</sub>
 <br>
 <sub>Data Engineer</sub>
 <br>
@@ -91,32 +95,34 @@ High-level design · team leadership · project & risk management
 <td align="center">
 <a href="https://www.st.com"><b>STMicroelectronics</b></a>
 <br>
-<sub>Data Engineer / Project Manager</sub>
+<sub>Data Engineer</sub>
 <br>
 <sub><code>Aug 2022 – Oct 2025</code></sub>
 </td>
 <td align="center">
-<a href="https://www.ibm.com"><b>IBM</b></a>
+<a href="https://www.bip.com"><b>BIP</b></a>
 <br>
 <sub>Data Engineer</sub>
 <br>
-<sub><code>Jul 2021 – Aug 2022</code></sub>
+<sub><code>Jul 2022 – Aug 2022</code></sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<b>Adora Ict S.r.l.</b>
+<a href="https://www.ibm.com"><b>IBM</b></a>
 <br>
-<sub>Data Analyst</sub>
+<sub>Client Innovation Center Milan</sub>
 <br>
-<sub><code>Jan 2021 – Jul 2021</code></sub>
+<sub>Data Engineer</sub>
+<br>
+<sub><code>Jul 2021 – Jul 2022</code></sub>
 </td>
 <td align="center">
-<b>Credipass</b>
+<b>Adora ICT</b>
 <br>
-<sub>Credit Advisor</sub>
+<sub>Data Engineer</sub>
 <br>
-<sub><code>Jan 2018 – Dec 2020</code></sub>
+<sub><code>Jan 2020 – Jul 2021</code></sub>
 </td>
 <td></td>
 </tr>
@@ -124,51 +130,80 @@ High-level design · team leadership · project & risk management
 
 <br>
 
-## **Featured Projects**
+## **Education**
 
 <table>
 <tr>
-<td width="180" align="center">
-<a href="https://github.com/fardita/ai-config"><b>ai-config</b></a>
+<td align="center">
+<b>M.Sc. Corporate Finance</b>
 <br>
-<sub>JavaScript</sub>
-<br>
-<img src="https://img.shields.io/badge/⭐-1-yellow?style=flat-square" alt="stars">
+<sub>University of Catania</sub>
 </td>
-<td valign="top">
-Complete AI agent setup: opencode, MCP, headroom, 35 skills, 8 servers
+<td align="center">
+<b>B.Sc. Business Administration</b>
 <br>
-<sub><code>agent-config</code> <code>mcp</code> <code>skills</code> <code>opencode</code></sub>
+<sub>University of Catania</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+## **Certifications**
+
+<table>
+<tr>
+<td align="center">
+<code>DP-600</code>
+<br>
+<sub>Microsoft Fabric Analytics Engineer Associate</sub>
+</td>
+<td align="center">
+<code>AZ-900</code>
+<br>
+<sub>Microsoft Azure Fundamentals</sub>
+</td>
+<td align="center">
+<code>Python 3</code>
+<br>
+<sub>Specialization</sub>
 </td>
 </tr>
 <tr>
-<td width="180" align="center">
-<a href="https://github.com/fardita/PortfolioAnalysis"><b>PortfolioAnalysis</b></a>
+<td align="center">
+<code>DS&ML</code>
 <br>
-<sub>Jupyter Notebook</sub>
+<sub>Data Science & Machine Learning</sub>
 </td>
-<td valign="top">
-Portfolio analysis, performance tracking, and quantitative finance
+<td align="center">
+<code>Databricks</code>
+<br>
+<sub>Data Engineer Associate (in progress)</sub>
 </td>
+<td></td>
 </tr>
-<tr>
-<td width="180" align="center">
-<a href="https://github.com/fardita/RealEstateMilan"><b>RealEstateMilan</b></a>
+</table>
+
 <br>
-<sub>Jupyter Notebook</sub>
-</td>
-<td valign="top">
-Data exploration & multiple linear regression on Milan real estate data
-</td>
-</tr>
+
+## **Languages**
+
+<table>
 <tr>
-<td width="180" align="center">
-<a href="https://github.com/fardita/PolynomialRegression"><b>PolynomialRegression</b></a>
+<td align="center">
+<b>Italian</b>
 <br>
-<sub>R</sub>
+<sub>Native</sub>
 </td>
-<td valign="top">
-COVID-19 impact on daily landings — UNHCR data, polynomial regression
+<td align="center">
+<b>English</b>
+<br>
+<sub>B2+</sub>
+</td>
+<td align="center">
+<b>Spanish</b>
+<br>
+<sub>A2</sub>
 </td>
 </tr>
 </table>
@@ -200,6 +235,7 @@ COVID-19 impact on daily landings — UNHCR data, polynomial regression
 
 <br>
 
+<a href="tel:+393490550564"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
 <a href="https://www.linkedin.com/in/francesco-ardita/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://fardita.github.io"><img src="https://img.shields.io/badge/Portfolio-E25A1C?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:francesco.ardita91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
