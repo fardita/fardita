@@ -1,8 +1,8 @@
 <div align="center">
 
-# **Francesco Ardita**
+# Francesco Ardita
 
-### **Data Engineer, Big Data, Cloud (GCP/Azure), BI & DWH**
+**Data Engineer, Big Data, Cloud (GCP/Azure), BI & DWH**
 
 <br>
 
@@ -25,30 +25,18 @@
 <a href="https://github.com/opencode-ai/opencode"><img src="https://img.shields.io/badge/OpenCode-FF6B35?style=flat&logo=terminal&logoColor=white" alt="OpenCode"></a>
 <a href="https://github.com/earendil-works/pi-coding-agent"><img src="https://img.shields.io/badge/pi-3B52FF?style=flat&logo=robot&logoColor=white" alt="pi agent"></a>
 
-</div>
-
-<br>
-
-<div align="center">
-
-[![Location](https://img.shields.io/badge/📍-Catania-555555?style=flat-square&labelColor=333333)](#)
-[![Company](https://img.shields.io/badge/🏢-Leonardo%20S.p.A.-0078D4?style=flat-square&labelColor=333333)](#)
+[![Location](https://img.shields.io/badge/Catania-555555?style=flat-square&labelColor=333333)](#)
+[![Company](https://img.shields.io/badge/Leonardo%20S.p.A.-0078D4?style=flat-square&labelColor=333333)](#)
 
 </div>
 
-<br>
-
-<div align="center">
-<img width="700" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='700' height='2'%3E%3Crect width='700' height='2' fill='%23e1e4e8'/%3E%3Crect x='250' width='200' height='2' fill='%233B52FF'/%3E%3C/svg%3E" alt="· · ·">
-</div>
-
-<br>
+---
 
 > Data Engineer with 5+ years shipping production ETL pipelines, cloud data platforms, and BI solutions across defense, semiconductor, healthcare, and telecom. Background in Corporate Finance — I build pipelines that serve business decisions, not just data.
 
-<br>
+---
 
-## **What I do**
+## What I do
 
 I build ETL and ELT pipelines on PySpark and Databricks, designed around lakehouse patterns with Type-1 SCD merge logic and incremental delta processing. My cloud stack spans BigQuery, Azure Data Factory, and Terraform — I provision and orchestrate production workloads that move terabytes daily, with Kafka handling the streaming layer when real-time ingestion is the requirement.
 
@@ -58,173 +46,84 @@ Orchestration is Airflow and Cloud Composer. I write DAGs that handle dependency
 
 I also work at the intersection of data engineering and AI-assisted development. I use GitHub Copilot, OpenCode, and the pi coding agent daily — not as shortcuts, but as tools that let me move faster on boilerplate so I can spend more time on the architecture that matters.
 
-<br>
+---
 
-## **Experience**
+## Experience
 
-<table>
-<tr>
-<td align="center">
-<a href="https://www.leonardo.com"><b>Leonardo S.p.A.</b></a>
-<br>
-<sub>Cyber Security Division</sub>
-<br>
-<sub>Data Engineer</sub>
-<br>
-<sub><code>Oct 2025 – Present</code></sub>
-<br><br>
+**Leonardo S.p.A.** · Cyber Security Division · Data Engineer · `Oct 2025 – Present`
+
 Leading the ERP-to-Cloud migration for a national strategic infrastructure client. Designed, architected, and deployed the entire infrastructure for a public healthcare BI project on the client's proprietary Linux VMs — from provisioning to go-live. Built Power BI dashboards with advanced DAX measures for executive reporting. BigQuery lakehouse, Airflow orchestration. Designed a generative BI concept shortlisted for the Innovation Award 2026.
-</td>
-<td align="center">
-<a href="https://www.st.com"><b>STMicroelectronics</b></a>
-<br>
-<sub>Data Engineer</sub>
-<br>
-<sub><code>Aug 2022 – Oct 2025</code></sub>
-<br><br>
-<sub>Built semiconductor telemetry pipelines on PySpark and Databricks, processing high-volume manufacturing data with lakehouse architecture and SCD merge logic for yield analysis.</sub>
-</td>
-<td align="center">
-<a href="https://www.bip.com"><b>BIP</b></a>
-<br>
-<sub>Data Engineer</sub>
-<br>
-<sub><code>Jul 2022 – Aug 2022</code></sub>
-<br><br>
-<sub>Short engagement delivering data migration and validation work for a consulting client.</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://www.ibm.com"><b>IBM</b></a>
-<br>
-<sub>Client Innovation Center Milan</sub>
-<br>
-<sub>Data Engineer</sub>
-<br>
-<sub><code>Jul 2021 – Jul 2022</code></sub>
-<br><br>
-<sub>Developed ETL workflows and data integration solutions for enterprise clients, working across SQL Server, SAS, and cloud-based reporting stacks.</sub>
-</td>
-<td align="center">
-<b>Adora ICT</b>
-<br>
-<sub>Data Engineer</sub>
-<br>
-<sub><code>Jan 2020 – Jul 2021</code></sub>
-<br><br>
-<sub>First production role — built data pipelines and BI dashboards for telecom and healthcare clients, where I learned that reliable pipelines matter more than clever ones.</sub>
-</td>
-<td></td>
-</tr>
-</table>
 
-<br>
+---
 
-## **Education**
+**STMicroelectronics** · Data Engineer · `Aug 2022 – Oct 2025`
 
-<table>
-<tr>
-<td align="center">
-<b>M.Sc. Corporate Finance</b>
-<br>
-<sub>University of Catania</sub>
-</td>
-<td align="center">
-<b>B.Sc. Business Administration</b>
-<br>
-<sub>University of Catania</sub>
-</td>
-</tr>
-</table>
+Built semiconductor telemetry pipelines on PySpark and Databricks, processing high-volume manufacturing data with lakehouse architecture and SCD merge logic for yield analysis. Shipped a containerized Python backend and delivered Power BI solutions adopted across multiple engineering teams.
 
-<br>
+---
 
-## **Certifications**
+**BIP** · Data Engineer · `Jul 2022 – Aug 2022`
 
-<table>
-<tr>
-<td align="center">
-<code>DP-600</code>
-<br>
-<sub>Microsoft Fabric Analytics Engineer Associate</sub>
-</td>
-<td align="center">
-<code>AZ-900</code>
-<br>
-<sub>Microsoft Azure Fundamentals</sub>
-</td>
-<td align="center">
-<code>Python 3</code>
-<br>
-<sub>Specialization</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<code>DS&ML</code>
-<br>
-<sub>Data Science & Machine Learning</sub>
-</td>
-<td align="center">
-<code>Databricks</code>
-<br>
-<sub>Data Engineer Associate (in progress)</sub>
-</td>
-<td></td>
-</tr>
-</table>
+Short engagement delivering data migration and cloud architecture design. Executed an on-premises-to-cloud migration using Azure Data Factory and Databricks.
 
-<br>
+---
 
-## **Languages**
+**IBM** · Client Innovation Center Milan · Data Engineer · `Jul 2021 – Jul 2022`
 
-<table>
-<tr>
-<td align="center">
-<b>Italian</b>
-<br>
-<sub>Native</sub>
-</td>
-<td align="center">
-<b>English</b>
-<br>
-<sub>B2+</sub>
-</td>
-<td align="center">
-<b>Spanish</b>
-<br>
-<sub>A2</sub>
-</td>
-</tr>
-</table>
+Developed ETL workflows spanning DataStage, Databricks, and Azure Data Factory. Designed cognitive cloud platforms on Azure covering Data Lake, DWH, and data consumption layers.
 
-<br>
+---
 
-<div align="center">
-<img width="700" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='700' height='2'%3E%3Crect width='700' height='2' fill='%23e1e4e8'/%3E%3Crect x='250' width='200' height='2' fill='%233B52FF'/%3E%3C/svg%3E" alt="· · ·">
-</div>
+**Adora ICT** · Data Engineer · `Jan 2020 – Jul 2021`
 
-<br>
+First production role — built data pipelines and Power BI dashboards for telecom and healthcare clients. Ran exploratory data analysis and modeled sales data for user clustering initiatives.
+
+---
+
+## Education
+
+**M.Sc. Corporate Finance** · University of Catania
+
+**B.Sc. Business Administration** · University of Catania
+
+---
+
+## Certifications
+
+**DP-600** · Microsoft Fabric Analytics Engineer Associate
+
+**AZ-900** · Microsoft Azure Fundamentals
+
+**Python 3** · Specialization
+
+**DS&ML** · Data Science & Machine Learning
+
+**Databricks** · Data Engineer Associate (in progress)
+
+---
+
+## Languages
+
+**Italian** · Native
+
+**English** · B2+
+
+**Spanish** · A2
+
+---
 
 <div align="center">
 
-### **Stats**
-
-<br>
+### Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=fardita&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats" width="400">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardita&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="160">
 
 </div>
 
-<br>
+---
 
 <div align="center">
-
-### **Let's connect**
-
-<br>
 
 <a href="tel:+393490550564"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"></a>
 <a href="https://www.linkedin.com/in/francesco-ardita/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
