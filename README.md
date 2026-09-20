@@ -52,88 +52,32 @@
 
 ## **What I do**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I build ETL/ELT pipelines on PySpark and Databricks, designed around lakehouse patterns with Type-1 SCD merge logic and incremental delta processing. My cloud stack spans BigQuery, Azure Data Factory, and Apache Airflow — I orchestrate production workloads that move terabytes daily and stay auditable.
 
-#### Data Engineering
-ETL/ELT pipelines · data modeling · lakehouse architecture · migrations · validation · SCD merge logic
+On the analytics side, I deliver Power BI dashboards with advanced DAX measures and Apache Superset reports that replace manual Excel workflows. Every visualization is tied to a business decision, not just a pretty chart.
 
-#### Cloud & Platforms
-BigQuery · GCP · Azure Data Factory · Databricks (PySpark) · Terraform · Apache Kafka
+I manage the full ops layer: Airflow DAGs with retry logic, Docker containers for Python backends, Git workflows with code reviews. Terraform handles infrastructure, Kafka handles streaming.
 
-#### BI & Analytics
-Power BI (advanced DAX) · Apache Superset · dashboarding · data visualization · commercial KPIs
-
-</td>
-<td width="50%" valign="top">
-
-#### Orchestration & DevOps
-Apache Airflow / Cloud Composer · Docker · Git · CI/CD
-
-#### Data & Reporting
-SAS Visual Analytics · SQL Server · R · LaTeX · metadata schema validation
-
-#### Data Strategy
-Big data pipelines · semiconductor telemetry · revenue assurance · generative BI concepts
-
-#### AI-Assisted Development
-GitHub Copilot · OpenCode · pi agent · LLM-driven code generation · model selection & orchestration
-
-</td>
-</tr>
-</table>
+I use GitHub Copilot, OpenCode, and pi agent daily for code generation, refactoring, and model selection. AI-assisted development is not a buzzword in my workflow — it is how I ship faster without cutting corners.
 
 <br>
 
 ## **Experience**
 
-<table>
-<tr>
-<td align="center">
-<a href="https://www.leonardo.com"><b>Leonardo S.p.A.</b></a>
-<br>
-<sub>Cyber Security Division</sub>
-<br>
-<sub>Data Engineer</sub>
-<br>
-<sub><code>Oct 2025 – Present</code></sub>
-</td>
-<td align="center">
-<a href="https://www.st.com"><b>STMicroelectronics</b></a>
-<br>
-<sub>Data Engineer</sub>
-<br>
-<sub><code>Aug 2022 – Oct 2025</code></sub>
-</td>
-<td align="center">
-<a href="https://www.bip.com"><b>BIP</b></a>
-<br>
-<sub>Data Engineer</sub>
-<br>
-<sub><code>Jul 2022 – Aug 2022</code></sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="https://www.ibm.com"><b>IBM</b></a>
-<br>
-<sub>Client Innovation Center Milan</sub>
-<br>
-<sub>Data Engineer</sub>
-<br>
-<sub><code>Jul 2021 – Jul 2022</code></sub>
-</td>
-<td align="center">
-<b>Adora ICT</b>
-<br>
-<sub>Data Engineer</sub>
-<br>
-<sub><code>Jan 2020 – Jul 2021</code></sub>
-</td>
-<td></td>
-</tr>
-</table>
+**Leonardo S.p.A.** — Cyber Security Division    `Oct 2025 – Present`
+Leading the ERP-to-Cloud migration for a national strategic infrastructure client. BigQuery lakehouse, Airflow orchestration, Power BI dashboards for executive reporting. Designed a generative BI concept shortlisted for the Innovation Award 2026.
+
+**STMicroelectronics**    `Aug 2022 – Oct 2025`
+Built and optimized production ETL pipelines on Databricks processing equipment and sensor telemetry across the manufacturing floor. Shipped a containerized Python backend and delivered Power BI solutions adopted across multiple engineering teams.
+
+**BIP**    `Jul 2022 – Aug 2022`
+Data exploration and cloud architecture design. Executed an on-premises-to-cloud migration using Azure Data Factory and Databricks.
+
+**IBM**    `Jul 2021 – Jul 2022`
+Client Innovation Center Milan. Built ETL pipelines spanning DataStage, Databricks, and Azure Data Factory. Designed cognitive cloud platforms on Azure covering Data Lake, DWH, and consumption layers.
+
+**Adora ICT**    `Jan 2020 – Jul 2021`
+Delivered Power BI dashboards used directly by business stakeholders. Ran exploratory data analysis and modeled sales data for user clustering initiatives.
 
 <br>
 
