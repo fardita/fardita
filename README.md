@@ -4,8 +4,6 @@
 
 ### **Data Engineer, Big Data, Cloud (GCP/Azure), BI & DWH**
 
-`Python` · `SQL` · `PySpark` · `BigQuery` · `GCP` · `Azure` · `Databricks` · `Airflow` · `Power BI` · `Copilot` · `OpenCode` · `pi`
-
 <br>
 
 <a href="https://python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"></a>
@@ -46,38 +44,80 @@
 
 <br>
 
-> 5+ years across **Leonardo**, **STMicroelectronics**, **BIP**, **IBM**, and **Adora ICT**. I design and ship ETL/ELT pipelines, cloud data platforms, lakehouse architectures, and BI solutions — owning high-level design end to end. A background in Corporate Finance keeps a business-first lens on every pipeline.
+> Data Engineer with 5+ years shipping production ETL pipelines, cloud data platforms, and BI solutions across defense, semiconductor, healthcare, and telecom. Background in Corporate Finance — I build pipelines that serve business decisions, not just data.
 
 <br>
 
 ## **What I do**
 
-I build ETL/ELT pipelines on PySpark and Databricks, designed around lakehouse patterns with Type-1 SCD merge logic and incremental delta processing. My cloud stack spans BigQuery, Azure Data Factory, and Apache Airflow — I orchestrate production workloads that move terabytes daily and stay auditable.
+I build ETL and ELT pipelines on PySpark and Databricks, designed around lakehouse patterns with Type-1 SCD merge logic and incremental delta processing. My cloud stack spans BigQuery, Azure Data Factory, and Terraform — I provision and orchestrate production workloads that move terabytes daily, with Kafka handling the streaming layer when real-time ingestion is the requirement.
 
-On the analytics side, I deliver Power BI dashboards with advanced DAX measures and Apache Superset reports that replace manual Excel workflows. Every visualization is tied to a business decision, not just a pretty chart.
+On the analytics side, I build dashboards in Power BI using advanced DAX measures and in Apache Superset for open-source reporting. Every visualization is tied to commercial KPIs or operational metrics that someone actually needs to act on. I care about the data model underneath as much as the chart on top — schema validation, consistent grain, and clean joins are what make a dashboard trustworthy.
 
-I manage the full ops layer: Airflow DAGs with retry logic, Docker containers for Python backends, Git workflows with code reviews. Terraform handles infrastructure, Kafka handles streaming.
+Orchestration is Airflow and Cloud Composer. I write DAGs that handle dependency chains, retry logic, and cross-system coordination without fragile cron jobs. The code lives in Git, gets tested before it ships, and runs inside Docker containers so the pipeline behaves the same in staging as it does in production.
 
-I use GitHub Copilot, OpenCode, and pi agent daily for code generation, refactoring, and model selection. AI-assisted development is not a buzzword in my workflow — it is how I ship faster without cutting corners.
+I also work at the intersection of data engineering and AI-assisted development. I use GitHub Copilot, OpenCode, and the pi coding agent daily — not as shortcuts, but as tools that let me move faster on boilerplate so I can spend more time on the architecture that matters.
 
 <br>
 
 ## **Experience**
 
-**Leonardo S.p.A.** — Cyber Security Division    `Oct 2025 – Present`
-Leading the ERP-to-Cloud migration for a national strategic infrastructure client. BigQuery lakehouse, Airflow orchestration, Power BI dashboards for executive reporting. Designed a generative BI concept shortlisted for the Innovation Award 2026.
-
-**STMicroelectronics**    `Aug 2022 – Oct 2025`
-Built and optimized production ETL pipelines on Databricks processing equipment and sensor telemetry across the manufacturing floor. Shipped a containerized Python backend and delivered Power BI solutions adopted across multiple engineering teams.
-
-**BIP**    `Jul 2022 – Aug 2022`
-Data exploration and cloud architecture design. Executed an on-premises-to-cloud migration using Azure Data Factory and Databricks.
-
-**IBM**    `Jul 2021 – Jul 2022`
-Client Innovation Center Milan. Built ETL pipelines spanning DataStage, Databricks, and Azure Data Factory. Designed cognitive cloud platforms on Azure covering Data Lake, DWH, and consumption layers.
-
-**Adora ICT**    `Jan 2020 – Jul 2021`
-Delivered Power BI dashboards used directly by business stakeholders. Ran exploratory data analysis and modeled sales data for user clustering initiatives.
+<table>
+<tr>
+<td align="center">
+<a href="https://www.leonardo.com"><b>Leonardo S.p.A.</b></a>
+<br>
+<sub>Cyber Security Division</sub>
+<br>
+<sub>Data Engineer</sub>
+<br>
+<sub><code>Oct 2025 – Present</code></sub>
+<br><br>
+Leading the ERP-to-Cloud migration for a national strategic infrastructure client. Designed, architected, and deployed the entire infrastructure for a public healthcare BI project on the client's proprietary Linux VMs — from provisioning to go-live. Built Power BI dashboards with advanced DAX measures for executive reporting. BigQuery lakehouse, Airflow orchestration. Designed a generative BI concept shortlisted for the Innovation Award 2026.
+</td>
+<td align="center">
+<a href="https://www.st.com"><b>STMicroelectronics</b></a>
+<br>
+<sub>Data Engineer</sub>
+<br>
+<sub><code>Aug 2022 – Oct 2025</code></sub>
+<br><br>
+<sub>Built semiconductor telemetry pipelines on PySpark and Databricks, processing high-volume manufacturing data with lakehouse architecture and SCD merge logic for yield analysis.</sub>
+</td>
+<td align="center">
+<a href="https://www.bip.com"><b>BIP</b></a>
+<br>
+<sub>Data Engineer</sub>
+<br>
+<sub><code>Jul 2022 – Aug 2022</code></sub>
+<br><br>
+<sub>Short engagement delivering data migration and validation work for a consulting client.</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://www.ibm.com"><b>IBM</b></a>
+<br>
+<sub>Client Innovation Center Milan</sub>
+<br>
+<sub>Data Engineer</sub>
+<br>
+<sub><code>Jul 2021 – Jul 2022</code></sub>
+<br><br>
+<sub>Developed ETL workflows and data integration solutions for enterprise clients, working across SQL Server, SAS, and cloud-based reporting stacks.</sub>
+</td>
+<td align="center">
+<b>Adora ICT</b>
+<br>
+<sub>Data Engineer</sub>
+<br>
+<sub><code>Jan 2020 – Jul 2021</code></sub>
+<br><br>
+<sub>First production role — built data pipelines and BI dashboards for telecom and healthcare clients, where I learned that reliable pipelines matter more than clever ones.</sub>
+</td>
+<td></td>
+</tr>
+</table>
 
 <br>
 
@@ -192,4 +232,3 @@ Delivered Power BI dashboards used directly by business stakeholders. Ran explor
 <a href="mailto:francesco.ardita91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
-
