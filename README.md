@@ -192,3 +192,4 @@ Delivered Power BI dashboards used directly by business stakeholders. Ran explor
 <a href="mailto:francesco.ardita91@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
+
