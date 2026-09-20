@@ -4,7 +4,7 @@
 
 ### **Data Engineer, Big Data, Cloud (GCP/Azure), BI & DWH**
 
-`Python` · `SQL` · `PySpark` · `BigQuery` · `GCP` · `Azure` · `Databricks` · `Airflow` · `Power BI`
+`Python` · `SQL` · `PySpark` · `BigQuery` · `GCP` · `Azure` · `Databricks` · `Airflow` · `Power BI` · `Copilot` · `OpenCode` · `pi`
 
 <br>
 
@@ -22,6 +22,10 @@
 <a href="https://kafka.apache.org"><img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" alt="Kafka"></a>
 <a href="https://docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"></a>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"></a>
+<br>
+<a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/Copilot-6E40C9?style=flat&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"></a>
+<a href="https://github.com/opencode-ai/opencode"><img src="https://img.shields.io/badge/OpenCode-FF6B35?style=flat&logo=terminal&logoColor=white" alt="OpenCode"></a>
+<a href="https://github.com/earendil-works/pi-coding-agent"><img src="https://img.shields.io/badge/pi-3B52FF?style=flat&logo=robot&logoColor=white" alt="pi agent"></a>
 
 </div>
 
@@ -72,6 +76,9 @@ SAS Visual Analytics · SQL Server · R · LaTeX · metadata schema validation
 
 #### Data Strategy
 Big data pipelines · semiconductor telemetry · revenue assurance · generative BI concepts
+
+#### AI-Assisted Development
+GitHub Copilot · OpenCode · pi agent · LLM-driven code generation · model selection & orchestration
 
 </td>
 </tr>
